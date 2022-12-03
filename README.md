@@ -34,3 +34,7 @@ git clone https://github.com/fireship-io/supaship.io.git && \
   yarn debug
 ```
 ^ Installs the app and runs e2e tests in debug mode. (Good for a quick overview of all the app does).
+
+<p align="center">
+🌟 PLEASE STAR THIS REPO IF YOU FOUND SOMETHING INTERESTING 🌟
+</p>
