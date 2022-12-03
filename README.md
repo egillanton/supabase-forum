@@ -10,9 +10,7 @@ This project is solely used as a showcase project on my portfolio website.
 
 # What is Supabase?
 
-Supabase in a Free Open Source Software (FOSS) alternative to GCP Firebase and AWS Amplify.
-
-[Read more here](https://supabase.com/)
+[Supabase](https://supabase.com/) in a Free Open Source Software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) alternative to GCP [Firebase](https://firebase.google.com/) and AWS [Amplify](https://aws.amazon.com/amplify/).
 
 ## Quick Start
 
