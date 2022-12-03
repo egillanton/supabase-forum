@@ -5,7 +5,7 @@
 
 # Supabase Forum
 
-A demo forum application using Supabase as our backend.
+A personal demo forum application using Supabase as our backend. Solely used  as a showcase project on my portfolio website.
 
 # What is Supabase?
 
