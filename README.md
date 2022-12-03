@@ -3,9 +3,10 @@
 <img width="300" src="https://user-images.githubusercontent.com/9976294/205456801-9b38c496-f8f8-4fd9-92bf-4dcc12302806.svg#gh-dark-mode-only">
 </p>
 
-# Supabase Forum
+# Supabase Forum - In Development
 
-A personal demo forum application using Supabase as our backend. Solely used  as a showcase project on my portfolio website.
+A personal demo forum application using Supabase as our backend. 
+This project is solely used as a showcase project on my portfolio website.
 
 # What is Supabase?
 
