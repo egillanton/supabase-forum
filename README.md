@@ -23,3 +23,14 @@ Supabase in a Free Open Source Software (FOSS) alternative to GCP Firebase and A
 ### Recommended
 * git
 
+
+Make sure docker is running, then:
+
+```bash
+git clone https://github.com/fireship-io/supaship.io.git && \
+  cd supaship.io && \
+  yarn && \
+  yarn add -D supabase && \
+  yarn debug
+```
+^ Installs the app and runs e2e tests in debug mode. (Good for a quick overview of all the app does).
