@@ -9,7 +9,7 @@ A personal demo forum application using Supabase as our backend. Solely used  as
 
 # What is Supabase?
 
-Supabase in a Free Open Source Software (FOSS) alternative to GCP Firebase and AWS Amplitude.
+Supabase in a Free Open Source Software (FOSS) alternative to GCP Firebase and AWS Amplify.
 
 [Read more here](https://supabase.com/)
 
